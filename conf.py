@@ -20,9 +20,9 @@ html_theme = 'default'
 
 html_static_path = ['static']
 
-def setup(app):
+# def setup(app):
     # overrides for wide tables in RTD theme
-    app.add_stylesheet('theme_overrides.css') # path relative to static
+    # app.add_stylesheet('theme_overrides.css') # path relative to static
 
 """
   You might want to uncomment the “latex_documents = []” if you use CKJ characters in your document.
@@ -30,7 +30,7 @@ def setup(app):
 """
 #latex_documents = []
 
-#latex_logo = "fpa_digital360_negativo.png"
-#html_logo = "fpa_digital360_negativo.png"
+# latex_logo = "fpa_digital360_negativo.png"
+# html_logo = "fpa_digital360_negativo.png"
 
 # templates_path = ['_templates']
