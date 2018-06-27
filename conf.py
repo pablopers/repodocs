@@ -1,18 +1,18 @@
 # -*- coding: utf-8 -*-
 
-from __future__ import unicode_literals
-import sys, os
+# from __future__ import unicode_literals
+# import sys, os
 
-on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+# on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
 # sys.path.append(os.path.abspath(os.pardir))
 
 # __version__ = '1.0'
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = 'sphinx'
+# pygments_style = 'sphinx'
 
-extlinks = {}
+# extlinks = {}
 
 # -- Options for HTML output ---------------------------------------------------
 
