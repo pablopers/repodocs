@@ -33,4 +33,4 @@ def setup(app):
 #latex_logo = "fpa_digital360_negativo.png"
 #html_logo = "fpa_digital360_negativo.png"
 
-templates_path = ['_templates']
+# templates_path = ['_templates']
